@@ -1,0 +1,4 @@
+list "servers"
+	- acceptTextures 0-1
+	ip <ip>
+	name <name>
