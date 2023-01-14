@@ -1,0 +1,1 @@
+# servers.dat-template
